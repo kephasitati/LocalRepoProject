@@ -19,3 +19,8 @@ console.log (typeof "Address", address); // object
 console.log (typeof undefinedVariable); // undefined
 console.log (typeof nullVariable); // object (this is a known JavaScript quirk) 
 
+console.log(age == 25); // false, checks value
+console.log(age == 30); // true, checks value and type     
+console.log(age !== 30); // false, checks value and type
+console.log(age <= 25); // false, checks value
+
