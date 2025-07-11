@@ -1,0 +1,1 @@
+I am creating simple code to practice data types and variables in Java script
