@@ -1,11 +1,5 @@
-
-
-
-
-
-
-function functionName(parameter1, parameter2) {
-    // This function takes two parameters and performs an operation
-    return parameter1 + parameter2;
+function sum(num1, num2) {
+    return num1 + num2;
 }
-functionName(argument1, argument2); // Call the function with arguments
+sum(5, 10); // Call the function with arguments 5 and 10
+console.log(sum(5, 10)); // Output the result of the function call
